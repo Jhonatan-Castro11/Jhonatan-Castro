@@ -1,11 +1,111 @@
-# 💫 Sobre Mi:
-Hola, soy Jhonatan Castro 👋<br><br>Soy Desarrollador Web, **Tecnólogo ADSI (con tarjeta profesional)** y estudiante de 5to semestre de Ingeniería de Sistemas. Me enfoco en construir aplicaciones robustas, escalables y bien estructuradas. Me apasiona resolver problemas complejos a través del código y crear experiencias digitales atractivas, manteniendo siempre un enfoque en la calidad y las buenas prácticas. Actualmente **me encuentro en búsqueda activa de empleo**, buscando integrarme a un equipo donde pueda aportar valor y seguir creciendo.<br><br>Tengo una base sólida en el desarrollo backend y frontend. Para la lógica del servidor utilizo Python y PHP, estructurando mis proyectos bajo el patrón MVC para asegurar un código limpio y mantenible. En cuanto a la creación de interfaces, trabajo con HTML5, CSS3 y JavaScript para garantizar interactividad y un diseño fluido adaptado a las necesidades del usuario.<br><br>Como la tecnología avanza rápidamente, mantengo un enfoque de aprendizaje continuo. Actualmente estoy ampliando mis herramientas frontend y explorando a fondo tecnologías modernas como Next.js, Vue y React, para tener una visión completa de la creación de Single Page Applications (SPA) y ecosistemas reactivos. Además, para optimizar mis tiempos de desarrollo (pero sin delegar la lógica central ni depender de ellas para todo el desarrollo), integro herramientas impulsadas por IA en mi flujo de trabajo, como Claude Code, Cursor y Antigravity CLI.<br><br>Mi objetivo es integrarme a un equipo dinámico donde pueda aportar mis conocimientos técnicos en el desarrollo de productos, enfrentar nuevos retos arquitectónicos y seguir evolucionando profesionalmente creando soluciones que generen impacto.<br><br>Si quieres hablar sobre código, proyectos o tecnología, puedes encontrarme en www.linkedin.com/in/jhon11 o escribirme a castrojhonatan682@gmail.com.
+<div align="center">
 
-## 🌐 Social:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jhon11) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:castrojhonatan682@gmail.com) 
+# ¡Hola! Soy Jhonatan David Castro Robayo 👋
 
-# 💻 Stack Tecnológico:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+### Desarrollador Full Stack 🚀 | Python | Next.js | PHP
 
-### 🛠️ Herramientas de Diseño & Optimización:
-![Cursor](https://img.shields.io/badge/Cursor-black?style=for-the-badge) ![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge) ![Antigravity CLI](https://img.shields.io/badge/Antigravity%20CLI-0052CC?style=for-the-badge) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Affinity Designer](https://img.shields.io/badge/affinity%20desginer-%231B72BE.svg?style=for-the-badge&logo=affinity-designer&logoColor=white)
+<p align="center">
+  <a href="mailto:castrojhonatan682@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/jhon11" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/Jhonatan-Castro11" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+*📍 Cogua, Cundinamarca, Colombia*
+
+</div>
+
+---
+
+## 👨‍💻 Sobre Mí
+
+Soy un Desarrollador Full Stack con enfoque principal en **Python** y la construcción de productos digitales escalables. Como Tecnólogo en Análisis y Desarrollo de Sistemas y estudiante de Ingeniería de Sistemas, combino fundamentos técnicos sólidos con experiencia práctica llevando proyectos desde el diseño de la arquitectura hasta su despliegue en producción con clientes reales.
+
+* 💡 **Experiencia:** Desarrollo de plataformas SaaS, integración de APIs de terceros y modelado de bases de datos relacionales.
+* 🔍 **Resolución de problemas:** Gracias a mi trayectoria en soporte corporativo, tengo una gran agilidad analítica para el *debugging* de código y la resolución eficiente de incidentes.
+* 🎯 **Objetivo:** Aportar código limpio, soluciones eficientes y valor directo al negocio dentro de un gran equipo de desarrollo.
+
+---
+
+## 🛠️ Stack Tecnológico
+
+### Backend & APIs
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![APIs](https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=json&logoColor=white)
+
+### Frontend
+![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### Desarrollo Móvil
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+
+### Bases de Datos & Cloud
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+
+### Infraestructura y Herramientas
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![VPS](https://img.shields.io/badge/VPS_/_Servidores-000000?style=for-the-badge&logo=linux&logoColor=white)
+![Scrum](https://img.shields.io/badge/Metodologías_Ágiles-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+
+---
+
+## 💼 Experiencia Profesional
+
+### 💻 Desarrollador de Software Independiente
+📅 *Febrero 2024 - Actualidad* <br>
+Gestión *end-to-end* de productos digitales, desde el levantamiento de requerimientos hasta el despliegue en producción de múltiples soluciones a la medida:
+
+- 🛒 **SaaS B2B (Punto Stock):** Arquitectura y desarrollo de un sistema POS y gestión de inventarios `(PHP, MySQL, JavaScript)`. Implementación de control de roles (RBAC) y analítica en tiempo real (procesando transacciones diarias en 3 negocios reales).
+- 📦 **E-commerce Automatizado:** Plataforma altamente escalable con Backend en `Python` y Frontend en `Next.js`. Automatización del ciclo logístico integrando la API de Dropi para sincronización de inventarios y guías de envío.
+- 🧱 **Desarrollo Web Integral (Ladrillera San Sebastián):** Digitalización del canal de ventas con un carrito de cotizaciones y un CMS personalizado.
+
+### 🛠️️ Analista Técnico de Sistemas | ARUS S.A.S
+📅 *Febrero 2026 - Actualidad*
+- Ejecución de procesos de *debugging* y análisis de incidentes de software a nivel corporativo, reduciendo tiempos de inactividad.
+- Administración y consulta de bases de datos operativas para garantizar la trazabilidad de activos tecnológicos.
+- Documentación de soluciones técnicas escalables.
+
+---
+
+## 🚀 Proyectos Destacados (En Desarrollo)
+
+### 🚲 Sistema de Control de Accesos
+*Desarrollo de una aplicación móvil para digitalizar el registro de entrada y salida de bicicletas en empresas de seguridad.*
+- **Impacto:** Reemplaza minutas manuales, optimiza la trazabilidad y automatiza el control de accesos.
+- **Tecnologías:** `Flutter` | `Firebase` (Bases de datos en tiempo real).
+
+---
+
+## 🎓 Educación & Idiomas
+
+| 📚 Educación | 🌐 Idiomas |
+| :--- | :--- |
+| **Ingeniería de Sistemas** <br> *UNAD (En curso desde 2025)* | **Español:** Nativo |
+| **Tecnólogo en Análisis y Desarrollo de Sistemas** <br> *SENA (Graduado 2022 - TP Vigente)* | **Inglés:** Nivel Técnico B1 (Lectura fluida) |
+
+<br>
+
+<div align="center">
+  
+  ### 📊 Estadísticas de GitHub
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=Jhonatan-Castro11&show_icons=true&theme=tokyonight&locale=es" alt="Estadísticas de Jhonatan" />
+
+</div>
