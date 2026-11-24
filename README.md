@@ -2,7 +2,7 @@
 
 # ¡Hola! Soy Jhonatan David Castro Robayo 👋
 
-### Desarrollador Full Stack 🚀 | JavaScript | React & Next.js | Node.js | Cloud (AWS)
+### Desarrollador Backend Python & Node.js | Automatización de Procesos | APIs REST | Cloud AWS
 
 <p align="center">
   <a href="mailto:castrojhonatan682@gmail.com">
@@ -21,29 +21,27 @@
 
 ## 👨‍💻 Sobre Mí
 
-Soy un Desarrollador Full Stack orientado al ecosistema **JavaScript / TypeScript (React, Next.js, Node.js)** y la arquitectura de soluciones Cloud. Como Tecnólogo con Tarjeta Profesional y estudiante de Ingeniería de Sistemas, poseo experiencia integral en el ciclo de vida del software: desde la toma de requerimientos e historias de usuario, hasta el diseño, codificación, pruebas y despliegue.
+Soy Desarrollador Backend enfocado en **Python, Node.js, integración de APIs REST y automatización de procesos**, con bases sólidas en infraestructura y soluciones Cloud. Como Tecnólogo en Análisis y Desarrollo de Sistemas con Tarjeta Profesional vigente y estudiante de Ingeniería de Sistemas en la UNAD, gestiono el ciclo de vida del software desde la arquitectura y el modelado de datos hasta el despliegue y soporte en producción.
 
-- 💡 **Desarrollo Front-End & Back-End:** Experiencia comprobada en la creación de aplicaciones web escalables, integración de APIs REST complejas y modelado de bases de datos.
-- 🔍 **Troubleshooting y Metodologías Ágiles:** Mi rol en soporte corporativo me ha dotado de una alta capacidad analítica para diagnosticar *bugs*, ejecutar pruebas y documentar desarrollos de forma estructurada.
-- 🎯 **Objetivo:** Integrarme a un equipo ágil para aportar código limpio, diseñar arquitecturas robustas e implementar prácticas de integración continua orientadas a la nube.
+- ⚙️ **Backend & Automatización:** Diseño de arquitecturas escalables, integración y consumo de APIs REST, sincronización automatizada de datos y lógica de negocio orientada a eliminar tareas manuales.
+- 🔍 **Producción, Troubleshooting & Infraestructura:** Mi rol corporativo como Analista Técnico me ha dado un enfoque analítico para diagnosticar *bugs* complejos, administrar bases de datos operativas SQL, servidores virtuales y documentar soluciones bajo metodologías ágiles.
+- 🎯 **Objetivo:** Aportar código limpio, arquitecturas backend estables y flujos automatizados que generen impacto medible en equipos de ingeniería ágiles.
 
 ---
 
 ## 🛠️ Stack Tecnológico
 
-### Frontend
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-### Backend & APIs
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+### Backend, APIs & Automatización
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![APIs](https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=json&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+
+### Bases de Datos
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white)
 
 ### Cloud, DevOps & Infraestructura
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -52,39 +50,44 @@ Soy un Desarrollador Full Stack orientado al ecosistema **JavaScript / TypeScrip
 ![VPS](https://img.shields.io/badge/VPS_/_Servidores-000000?style=for-the-badge&logo=linux&logoColor=white)
 ![Scrum](https://img.shields.io/badge/Metodologías_Ágiles-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
-### Bases de Datos & Mobile
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+### Frontend & Mobile (Complementario)
+![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ---
 
 ## 💼 Experiencia Profesional
 
-### 💻 Desarrollador Full Stack Freelance
-📅 *Febrero 2024 - Actualidad* <br>
-Gestión del ciclo de vida del software, desde historias de usuario hasta el despliegue y mantenimiento de plataformas a la medida:
-
-- 📦 **E-commerce Automatizado:** Lideré el desarrollo Front-End utilizando **Next.js y React** para una plataforma de alta escalabilidad. Codifiqué integraciones complejas de APIs (Dropi) para la sincronización logística, aplicando validaciones de código rigurosas.
-- 🛒 **SaaS B2B (Punto Stock):** Analicé, diseñé y desplegué un sistema de gestión POS operando bajo lógicas ágiles. Implementé interfaces dinámicas con **JavaScript**, asegurando un despliegue continuo para 3 negocios en producción.
-- 🧱 **Canal Web Integral:** Digitalización de ventas con carrito de cotizaciones e implementación de arquitecturas para CMS personalizados.
-
 ### 🛠 Analista Técnico de Sistemas | ARUS S.A.S
 📅 *Febrero 2026 - Actualidad*
-- Ejecución de diagnósticos avanzados, *troubleshooting* y **solución de bugs** en software corporativo, garantizando la estabilidad operativa.
-- Documentación técnica detallada de incidentes y resoluciones para el equipo de desarrollo y soporte.
-- Administración y consulta de bases de datos operativas (SQL) para garantizar la trazabilidad.
+- Ejecución de diagnóstico avanzado, *troubleshooting* y **resolución de bugs** en software corporativo, garantizando la estabilidad y continuidad operativa.
+- Consulta, análisis y soporte sobre **bases de datos operativas SQL**, Directorio Activo y servidores virtuales para investigar incidentes y validar correcciones.
+- Documentación técnica estructurada de incidentes, causas raíz y resoluciones para estandarizar el conocimiento del equipo.
+
+### 💻 Desarrollador Backend & Full Stack Freelance
+📅 *Febrero 2024 - Actualidad* <br>
+Gestión *end-to-end* de productos digitales a la medida, desde la arquitectura y el levantamiento de requerimientos hasta el despliegue y soporte en producción.
+
+> 🔒 **Nota de confidencialidad:** Por políticas de privacidad y propiedad intelectual con los clientes, el código fuente de los siguientes proyectos comerciales en producción se mantiene en **repositorios privados**. Con gusto puedo profundizar en su arquitectura, flujo de datos y retos técnicos durante una entrevista.
+
+- 📦 **E-commerce Automatizado:** Desarrollo de integraciones con la **API de Dropi** para automatizar la sincronización logística y de inventarios sobre una plataforma escalable (Next.js/React), aplicando pruebas y validaciones rigurosas para asegurar la consistencia de datos.
+- 🛒 **SaaS B2B Punto Stock:** Diseño de arquitectura y desarrollo de un sistema POS y gestión de inventarios en **JavaScript** bajo metodologías ágiles, con control de roles y analítica en tiempo real. Procesa transacciones diarias en **3 negocios reales en producción**.
+- 🧱 **Canal Web Integral Ladrillera San Sebastián:** Digitalización del proceso comercial mediante un carrito de cotizaciones y un **CMS personalizado** para la administración autónoma del catálogo.
 
 ---
 
-## 🚀 Proyectos Destacados (En Desarrollo)
+## 🚀 Proyectos Destacados En Desarrollo
 
-### 🚲 Sistema de Control de Accesos
-*Desarrollando una aplicación para digitalizar registros de entrada/salida.*
-- **Impacto:** Automatización de controles de acceso y optimización de trazabilidad mediante bases de datos en tiempo real.
-- **Tecnologías:** `Flutter` | `Firebase` | `Arquitectura Mobile`.
-
+### 🔧 Pro Talleres MT *CRM Automotriz*
+*Plataforma diseñada para estandarizar y automatizar la operación de talleres automotrices.*
+- **Impacto:** Estandariza el ingreso y salida de vehículos, automatiza el envío de estados en tiempo real y permite al cliente aprobar repuestos y presupuestos sin incertidumbre ni spam, brindando a los administradores trazabilidad real de tiempos, finanzas y efectividad del equipo.
+- **Tecnologías:** `Python` | `Next.js` | `APIs REST` | `Automatización`.
+- 
 ---
 
 ## 🎓 Educación & Idiomas
@@ -92,7 +95,7 @@ Gestión del ciclo de vida del software, desde historias de usuario hasta el des
 | 📚 Educación | 🌐 Idiomas |
 | :--- | :--- |
 | **Ingeniería de Sistemas** <br> *UNAD (En curso desde 2025)* | **Español:** Nativo |
-| **Tecnólogo en Análisis y Desarrollo de Sistemas** <br> *SENA (Graduado 2022 - TP Vigente)* | **Inglés:** Nivel Técnico B1 (Lectura técnica y documentación fluida) |
+| **Tecnólogo en Análisis y Desarrollo de Sistemas** <br> *SENA Tarjeta profesional vigente.* | **Inglés:** Nivel Técnico / En formación B1 Lectura fluida de documentación técnica |
 
 <br>
 
